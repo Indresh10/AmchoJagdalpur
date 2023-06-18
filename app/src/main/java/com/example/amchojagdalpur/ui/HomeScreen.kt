@@ -43,7 +43,7 @@ fun HomeScreen(
 ) {
     Column(modifier = modifier, horizontalAlignment = Alignment.CenterHorizontally) {
         Image(
-            painter = painterResource(id = R.mipmap.ic_launcher),
+            painter = painterResource(id = R.drawable.app_logo),
             contentDescription = "logo",
             modifier = Modifier.size(128.dp)
         )
