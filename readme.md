@@ -18,6 +18,7 @@ AmchoJagdalpur is an Android app designed to showcase the beautiful city of Jagd
     <img src ="screenshots/place_list_screen.png" alt = "Place List Screen" width = "300"/>
     <img src ="screenshots/place_details_screen.png" alt = "Place Details Screen" width = "300"/>
 </div>
+
 ## Installation
 
 1. Download the APK file from the [releases](https://github.com/Indresh10/AmchoJagdalpur/releases) section of this repository.
