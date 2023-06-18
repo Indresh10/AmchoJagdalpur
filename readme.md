@@ -13,13 +13,14 @@ AmchoJagdalpur is an Android app designed to showcase the beautiful city of Jagd
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Place List Screen](screenshots/place_list_screen.png)
-![Place Details Screen](screenshots/place_details_screen.png)
-
+<div>
+    <img src ="screenshots/home_screen.png" alt = "Home Screen" width = "300"/>
+    <img src ="screenshots/place_list_screen.png" alt = "Place List Screen" width = "300"/>
+    <img src ="screenshots/place_details_screen.png" alt = "Place Details Screen" width = "300"/>
+</div>
 ## Installation
 
-1. Download the APK file from the [releases](https://github.com/yourusername/AmchoJagdalpur/releases) section of this repository.
+1. Download the APK file from the [releases](https://github.com/Indresh10/AmchoJagdalpur/releases) section of this repository.
 2. Transfer the APK file to your Android device.
 3. On your Android device, navigate to **Settings > Security** and enable **Unknown sources** to allow the installation of apps from sources other than the Play Store.
 4. Use a file manager app to locate the APK file and tap on it to begin the installation.
